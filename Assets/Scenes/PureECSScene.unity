@@ -631,7 +631,7 @@ MonoBehaviour:
   tailAmplitude: 20
   animationFrequency: 0.02
   totalNeighbours: 100
-  threedcells: 0
+  threedcells: 1
   spineLength: 25
   bondDamping: 0.01
   angularDamping: 8
@@ -643,7 +643,7 @@ MonoBehaviour:
   radius: 1000
   neighbourDistance: 150
   speed: 2
-  isContainer: 0
+  isContainer: 1
   size: 17
   cellSize: 50
   gridSize: 10000
